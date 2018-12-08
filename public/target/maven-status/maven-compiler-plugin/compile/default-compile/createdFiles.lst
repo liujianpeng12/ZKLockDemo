@@ -1,0 +1,7 @@
+com/wujiuye/dubbo/interfaces/UserService.class
+com/wujiuye/dubbo/interfaces/impl/OrderServiceImpl.class
+com/wujiuye/dubbo/interfaces/OrderService.class
+com/wujiuye/dubbo/db/RedisUtils.class
+com/wujiuye/dubbo/interfaces/GoodsService.class
+com/wujiuye/dubbo/interfaces/impl/GoodsServiceImpl.class
+com/wujiuye/dubbo/interfaces/impl/UserServiceImpl.class
